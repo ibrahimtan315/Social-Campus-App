@@ -1,0 +1,27 @@
+4 tane model sinifi var bunlar user, admin, message and conversation
+    userin departmanlarini enum olarak yazdik
+
+Verileri dto ile geri donduk bunu dto class i icinde yaotik
+    dto classinin icine de request controller girdik
+
+Admine ayri service repo filan acilmasinin sebebi; simdilik adminin ozellikleri sabit ama ilerleyen zamanlarda
+    guncelleme yapildiginde guncellemeye acik olacak.
+
+
+
+
+
+
+
+
+
+
+-------------coming features-----------
+
+* message
+* conversation
+
+* relationships (OneToMany...)
+* login
+* sign up
+* message reporting
